@@ -5,3 +5,7 @@ Follow the Sequence: Pay attention to the sequence of colors or actions displaye
 Repeat the Sequence: After the game shows a sequence, repeat it by clicking or interacting with the corresponding colors or elements in the same order.
 Advance Levels: As you successfully replicate each sequence, the game will progressively become more challenging by adding more elements to the sequence.
 Game Over on Mistake: If you make a mistake by clicking the wrong element in the sequence, the game will end. You can then restart and try to beat your previous score.
+
+
+
+![Screenshot (22)](https://github.com/Mohammad-Amir-tech/Simon-Says-game/assets/143278584/58bf4cd9-e9c3-438b-9510-51f771a865b6)
